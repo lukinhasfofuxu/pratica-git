@@ -18,5 +18,6 @@ def main():
         i += 1
     plt.legend(loc='upper left')
 
+
     plt.show()
 main()
